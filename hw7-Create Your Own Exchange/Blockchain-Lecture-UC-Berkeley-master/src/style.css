@@ -1,0 +1,113 @@
+.exchange-header {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #252525;
+    line-height: 72px;
+}
+
+.exchange {
+    height: 543px;
+    background: #EEF3F7;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.exchange-currency {
+    background: #FFFFFF;
+    height: 121px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.exchange-logo {
+    padding-top: 24px;
+    padding-left: 23px;
+}
+
+.exchange-currency-name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #252525;
+    height: 121px;
+    margin-top: 40px;
+}
+
+.exchange-currency-value {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    color: #252525;
+    margin-top: 40px;
+}
+
+.exchange-currency-plus button {
+    width: 56px;
+    height: 51px;
+    color: #2775C9;
+    font-weight: 900;
+    margin-top: 27px;
+}
+
+.exchange-action-btn {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    width: 100%;
+    height: 72px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #252525;
+}
+
+.debugger {
+    background: #252525;
+    border-radius: 20px;
+    height: 365px;
+}
+
+.debugger-header {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #E5E5E5;
+}
+
+.debugger-pane {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #B0B0B0;
+}
+
+.debugger-pane-amount {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.debugger-pane-outer {
+    height: 190px;
+    width: 100%;
+    background: #313131;
+    border-radius: 10px;
+}
